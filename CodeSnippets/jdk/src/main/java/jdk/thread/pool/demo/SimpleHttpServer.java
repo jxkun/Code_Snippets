@@ -1,4 +1,4 @@
-package api.thread.pool;
+package jdk.thread.pool.demo;
 
 import java.io.*;
 import java.net.ServerSocket;

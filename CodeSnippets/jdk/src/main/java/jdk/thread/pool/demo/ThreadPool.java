@@ -1,4 +1,4 @@
-package api.thread.pool;
+package jdk.thread.pool.demo;
 
 public interface ThreadPool<Job extends Runnable> {
     /**

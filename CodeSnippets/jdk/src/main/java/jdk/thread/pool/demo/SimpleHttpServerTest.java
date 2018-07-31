@@ -1,4 +1,4 @@
-package api.thread.pool;
+package jdk.thread.pool.demo;
 
 import org.junit.Test;
 
